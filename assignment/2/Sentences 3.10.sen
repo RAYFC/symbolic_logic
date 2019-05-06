@@ -1,0 +1,1 @@
+7.2.3.26368wnds:Windows 86.2SntFC1538090530807D1538090769492S84734Between(a,b,c)|Between(b,a,c)  FrontOf(a,b)|FrontOf(c,b)  ~SameRow(b,c)|LeftOf(b,a) RightOf(b,a)|Tet(a) s=25604;

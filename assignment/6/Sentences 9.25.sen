@@ -1,0 +1,1 @@
+7.2.3.26368wnds:Windows 86.2SntFC1540419634808D1540420756950D1540420760153S108945@x ~ Prime(x * x)/x ~Even(x * x)@x (Prime(x) $ Prime(x * x))@x ((Prime(x)  & x # (1 + 1)) $ ~Even(x * x))@x ((1< x) $  (x<(x * x)))s=35803;
